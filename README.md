@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=Canna71&project=obsidian-chronology&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=Canna71&project=obsidian-chronology&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=Canna71&project=obsidian-chronology&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=Canna71&project=obsidian-chronology&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=Canna71&project=obsidian-chronology&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=Canna71&project=obsidian-chronology&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=Canna71&project=obsidian-chronology&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=Canna71&project=obsidian-chronology&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=Canna71&project=obsidian-chronology&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=Canna71&project=obsidian-chronology&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=Canna71&project=obsidian-chronology&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=Canna71&project=obsidian-chronology&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=Canna71&project=obsidian-chronology&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=Canna71&project=obsidian-chronology&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=Canna71&project=obsidian-chronology&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=Canna71&project=obsidian-chronology&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=Canna71&project=obsidian-chronology&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=Canna71&project=obsidian-chronology&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=Canna71&project=obsidian-chronology&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=Canna71&project=obsidian-chronology&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=Canna71&project=obsidian-chronology&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # Obsidian Chronology Plugin
 
 Provides a sidebar with a calendar view of your notes.
